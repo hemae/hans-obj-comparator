@@ -1,0 +1,27 @@
+{
+  "name": "hans-obj-comparator",
+  "version": "1.0.1",
+  "description": "With this package it is available to compare Objects and Arrays",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemae/hans-obj-comparator.git"
+  },
+  "keywords": [
+    "Object",
+    "Array",
+    "comparator"
+  ],
+  "author": "Hans Andersen <hemae2468@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemae/hans-obj-comparator/issues"
+  },
+  "homepage": "https://github.com/hemae/hans-obj-comparator#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
